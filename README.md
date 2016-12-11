@@ -1,2 +1,12 @@
-# blog-mudanai
-Es un proyecto dedicado al crecimiento de la comunidad Mudanai a través de un blog de conocimientos relacionados.
+Blog Mudanai
+
+[Descripcion del  proyecto]
+
+[Installación]
+-Requisitos
+-Versión
+-Encargados del proyecto
+
+[Uso]
+
+[Documentación]
