@@ -10,3 +10,7 @@ Blog Mudanai
 [Uso]
 
 [Documentación]
+
+[Roadmap]
+
+[Licencia]
